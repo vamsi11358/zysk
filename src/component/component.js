@@ -62,7 +62,7 @@ export default function List() {
 
     return (
         <>
-            <h1>List</h1>
+            <h1>List View</h1>
 
             <form onSubmit={formik.handleSubmit} style={{ marginBottom: '20px' }}>
                 <input
